@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "information-retrieval-embedding-aleph-alpha"
+version = "0.1.0"
+description = ""
+authors = ["Marc Mezger <marc.mezger@gmail.com>"]
+readme = "README.md"
+packages = [{include = "information_retrieval"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aleph-alpha-client = "^2.16.1"
+streamlit = "^1.19.0"
+hydra-core = "^1.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[settings]
+known_third_party = ["streamlit"]
