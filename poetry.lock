@@ -1299,14 +1299,14 @@ files = [
 
 [[package]]
 name = "pypdf"
-version = "3.5.1"
+version = "3.5.2"
 description = "A pure-python PDF library capable of splitting, merging, cropping, and transforming PDF files"
 category = "main"
 optional = false
 python-versions = ">=3.6"
 files = [
-    {file = "pypdf-3.5.1-py3-none-any.whl", hash = "sha256:d1bf57178cb8b75b6681c5ad786f9f1a8cd25899e8f79db6f537e215e16a27b2"},
-    {file = "pypdf-3.5.1.tar.gz", hash = "sha256:5cd99bdae4815842fb0d3b96220839d669f86c1fb57f46f0af1bb2994dfabfcb"},
+    {file = "pypdf-3.5.2-py3-none-any.whl", hash = "sha256:e326d699f42fd163ddbb2fdd9978aa1ba2b610aeb4c07bb6935eda5cdd87ae89"},
+    {file = "pypdf-3.5.2.tar.gz", hash = "sha256:49e0598c417107dde904daf6a62ce731991f51ce98c55d808ac7b3e952904e6d"},
 ]
 
 [package.extras]
@@ -1748,14 +1748,14 @@ test = ["pytest (>=4.3)", "pytest-mock (>=3.3)"]
 
 [[package]]
 name = "urllib3"
-version = "1.26.14"
+version = "1.26.15"
 description = "HTTP library with thread-safe connection pooling, file post, and more."
 category = "main"
 optional = false
 python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*"
 files = [
-    {file = "urllib3-1.26.14-py2.py3-none-any.whl", hash = "sha256:75edcdc2f7d85b137124a6c3c9fc3933cdeaa12ecb9a6a959f22797a0feca7e1"},
-    {file = "urllib3-1.26.14.tar.gz", hash = "sha256:076907bf8fd355cde77728471316625a4d2f7e713c125f51953bb5b3eecf4f72"},
+    {file = "urllib3-1.26.15-py2.py3-none-any.whl", hash = "sha256:aa751d169e23c7479ce47a0cb0da579e3ede798f994f5816a74e4f4500dcea42"},
+    {file = "urllib3-1.26.15.tar.gz", hash = "sha256:8a388717b9476f934a21484e8c8e61875ab60644d29b9b39e11e4b9dc1c6b305"},
 ]
 
 [package.extras]

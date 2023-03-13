@@ -757,9 +757,9 @@ pygments==2.14.0 ; python_version >= "3.11" and python_version < "3.12" \
 pympler==1.0.1 ; python_version >= "3.11" and python_version < "3.12" \
     --hash=sha256:993f1a3599ca3f4fcd7160c7545ad06310c9e12f70174ae7ae8d4e25f6c5d3fa \
     --hash=sha256:d260dda9ae781e1eab6ea15bacb84015849833ba5555f141d2d9b7b7473b307d
-pypdf==3.5.1 ; python_version >= "3.11" and python_version < "3.12" \
-    --hash=sha256:5cd99bdae4815842fb0d3b96220839d669f86c1fb57f46f0af1bb2994dfabfcb \
-    --hash=sha256:d1bf57178cb8b75b6681c5ad786f9f1a8cd25899e8f79db6f537e215e16a27b2
+pypdf==3.5.2 ; python_version >= "3.11" and python_version < "3.12" \
+    --hash=sha256:49e0598c417107dde904daf6a62ce731991f51ce98c55d808ac7b3e952904e6d \
+    --hash=sha256:e326d699f42fd163ddbb2fdd9978aa1ba2b610aeb4c07bb6935eda5cdd87ae89
 pyrsistent==0.19.3 ; python_version >= "3.11" and python_version < "3.12" \
     --hash=sha256:016ad1afadf318eb7911baa24b049909f7f3bb2c5b1ed7b6a8f21db21ea3faa8 \
     --hash=sha256:1a2994773706bbb4995c31a97bc94f1418314923bd1048c6d964837040376440 \
@@ -946,9 +946,9 @@ tzdata==2022.7 ; python_version >= "3.11" and python_version < "3.12" \
 tzlocal==4.2 ; python_version >= "3.11" and python_version < "3.12" \
     --hash=sha256:89885494684c929d9191c57aa27502afc87a579be5cdd3225c77c463ea043745 \
     --hash=sha256:ee5842fa3a795f023514ac2d801c4a81d1743bbe642e3940143326b3a00addd7
-urllib3==1.26.14 ; python_version >= "3.11" and python_version < "3.12" \
-    --hash=sha256:076907bf8fd355cde77728471316625a4d2f7e713c125f51953bb5b3eecf4f72 \
-    --hash=sha256:75edcdc2f7d85b137124a6c3c9fc3933cdeaa12ecb9a6a959f22797a0feca7e1
+urllib3==1.26.15 ; python_version >= "3.11" and python_version < "3.12" \
+    --hash=sha256:8a388717b9476f934a21484e8c8e61875ab60644d29b9b39e11e4b9dc1c6b305 \
+    --hash=sha256:aa751d169e23c7479ce47a0cb0da579e3ede798f994f5816a74e4f4500dcea42
 validators==0.20.0 ; python_version >= "3.11" and python_version < "3.12" \
     --hash=sha256:24148ce4e64100a2d5e267233e23e7afeb55316b47d30faae7eb6e7292bc226a
 watchdog==2.3.1 ; python_version >= "3.11" and python_version < "3.12" and platform_system != "Darwin" \

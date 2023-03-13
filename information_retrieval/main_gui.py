@@ -48,9 +48,9 @@ def initialize():
     if st.button("Start Search"):
         documents, qa = search_documents(query=search_query, token=aleph_alpha_api_key)
         # show the top 3 documents
-        st.write(documents)
-
         st.text_area("QA", value=qa)
+
+        st.text_area("Document", value=documents, height=500)
 
 
 # start the gui app
