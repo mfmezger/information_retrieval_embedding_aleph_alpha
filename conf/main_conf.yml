@@ -1,0 +1,16 @@
+aleph_alpha:
+  model: luminous-extended
+
+backend:
+  quant: False
+
+folder:
+  input: "data/input/"
+  output: "data/output/"
+
+  folders: ["data/input", "data/output", "results", "logs"]
+
+
+db:
+  port: 6333
+  host: localhost
